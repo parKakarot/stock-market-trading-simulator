@@ -15,10 +15,14 @@ Features
 	•	Price history visualization through dynamic charts
 
 Technologies Used
-	•	Java
-	•	Java Swing (GUI)
-	•	Custom Linked List implementation
-	•	File I/O (CSV parsing)
+	• Java
+	• Java Swing (GUI development)
+ 	• Object-Oriented Programming (OOP)
+    • Data Structures:
+    	• Custom Linked List implementation
+		• Arrays for stock data management 
+		• File I/O (CSV parsing)
+	• Algorithmic logic for trading operations (buy/sell, portfolio updates)
 
 How It Works
 	1.	The program loads stock data from a CSV file.
