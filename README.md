@@ -1,4 +1,4 @@
-#Stock Trading Simulator
+Stock Trading Simulator
 
 A Java-based stock trading simulator that models real-world portfolio management using historical stock data. This application features a graphical user interface (GUI), transaction tracking, and analytical tools to evaluate trading performance.
 
